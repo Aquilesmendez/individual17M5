@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">individual17M5</string>
+    <string name="converted_amount">Converted amount: %1$.2f %2$s</string>
+
+</resources>
